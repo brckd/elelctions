@@ -70,7 +70,7 @@
     "prettier": "^2.8.8",
     "sort-package-json": "^2.4.1",
     "tsup": "^6.7.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.6"
   },
   "optionalDependencies": {
     "@sapphire/cli": "^1.6.1",
